@@ -1,0 +1,12 @@
+numpy
+scipy
+pandas
+pandas-datareader
+scikit-learn
+scikit-image
+matplotlib
+seaborn
+jupyter
+notebook
+line_profiler
+memory_profiler
